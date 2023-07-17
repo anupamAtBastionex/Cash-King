@@ -1,0 +1,7 @@
+<?php
+// Firebase API Key
+define('FIREBASE_API_KEY', 'AAAAThWiOyA:APA91bFQ531xJ3EYr_ZG6ya62sclwXT-Kwr4N7LtTmFW2oXIpkgoHor8PnAAQXbdgrV1fc0Gi9P-o63Z2ED4ZAGU3wYMTvpccPojzxEES_30YbI1fq2JHsCWVTGV-KZkNa-WXTbsAlP5');
+
+define('X_KEY', 'flox-9998ff47d2c12ce5');
+define('X_SECRET', 'flox-4b19830bc53054fdd4626f162ecb81ff7093f36c167d39c4ac276f13a3b03773f11baa7ceb62de5c');
+?>
